@@ -66,8 +66,8 @@ class PDFMergerApp:
         self.app_name = "Offline PDF Merger"
         self.app_version = "1.3"
         self.developer_name = "Uren Thummar"
-        self.developer_email = "33000kv@gmail.com"
-        self.developer_phone = "+91 88663 03946"
+        self.developer_email = "xxx@gmail.com"
+        self.developer_phone = "+91 xxxxx xxxxx"
 
         self.set_window_icon(self.root)
         self.build_ui()
