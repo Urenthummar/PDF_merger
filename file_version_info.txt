@@ -1,0 +1,32 @@
+# UTF-8
+#
+VSVersionInfo(
+  ffi=FixedFileInfo(
+    filevers=(1, 0, 3, 0),
+    prodvers=(1, 0, 3, 0),
+    mask=0x3f,
+    flags=0x0,
+    OS=0x40004,
+    fileType=0x1,
+    subtype=0x0,
+    date=(0, 0)
+  ),
+  kids=[
+    StringFileInfo(
+      [
+      StringTable(
+        '040904b0',
+        [StringStruct('CompanyName', 'Torrent Power'),
+        StringStruct('FileDescription', 'Offline PDF Merger'),
+        StringStruct('FileVersion', '1.0.3.0'),
+        StringStruct('InternalName', 'Offline_PDF_Merger'),
+        StringStruct('LegalCopyright', '© 2026 Uren Thummar. All rights reserved.'),
+        StringStruct('OriginalFilename', 'Offline PDF Merger.exe'),
+        StringStruct('ProductName', 'Offline PDF Merger'),
+        StringStruct('ProductVersion', '1.0.3.0'),
+        StringStruct('Comments', 'Author: Uren Thummar | Contact: urenthummar@gmail.com or +91 8866303946')])
+      ]
+    ),
+    VarFileInfo([VarStruct('Translation', [1033, 1200])])
+  ]
+)

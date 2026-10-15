@@ -1,0 +1,4 @@
+pypdf
+ttkbootstrap
+pymupdf
+pillow
