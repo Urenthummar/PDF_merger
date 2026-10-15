@@ -16,7 +16,7 @@ VSVersionInfo(
       [
       StringTable(
         '040904b0',
-        [StringStruct('CompanyName', 'Torrent Power'),
+        [StringStruct('CompanyName', 'xxxx'),
         StringStruct('FileDescription', 'Offline PDF Merger'),
         StringStruct('FileVersion', '1.0.3.0'),
         StringStruct('InternalName', 'Offline_PDF_Merger'),
@@ -24,7 +24,7 @@ VSVersionInfo(
         StringStruct('OriginalFilename', 'Offline PDF Merger.exe'),
         StringStruct('ProductName', 'Offline PDF Merger'),
         StringStruct('ProductVersion', '1.0.3.0'),
-        StringStruct('Comments', 'Author: Uren Thummar | Contact: urenthummar@gmail.com or +91 8866303946')])
+        StringStruct('Comments', 'Author: Uren Thummar | Contact: xxxxx@gmail.com or +91 xxxx')])
       ]
     ),
     VarFileInfo([VarStruct('Translation', [1033, 1200])])
